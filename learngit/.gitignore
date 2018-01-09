@@ -1,0 +1,35 @@
+../.WebStorm11/
+../.WebStorm2017.2/
+../.android/
+../.gitconfig
+../.minttyrc
+../.ssh/
+../.vscode/
+../AppData/
+../Application Data/
+../Contacts/
+../Cookies/
+../Desktop/
+../Documents/
+../Downloads/
+../Favorites/
+../IntelGraphicsProfiles/
+../Links/
+../Local Settings/
+../Music/
+../My Documents/
+../NTUSER.DAT
+../NTUSER.DAT{ffa32b38-0b7a-11e3-93f7-a4badb40d5ea}.TM.blf
+../NTUSER.DAT{ffa32b38-0b7a-11e3-93f7-a4badb40d5ea}.TMContainer00000000000000000001.regtrans-ms
+../NTUSER.DAT{ffa32b38-0b7a-11e3-93f7-a4badb40d5ea}.TMContainer00000000000000000002.regtrans-ms
+../Pictures/
+../Recent/
+../Saved Games/
+../Searches/
+../SendTo/
+../Videos/
+../WebpageIcons.db
+../ntuser.dat.LOG1
+../ntuser.dat.LOG2
+../ntuser.ini
+../ntuser.pol
